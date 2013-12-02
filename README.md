@@ -77,7 +77,6 @@ chart (half pie chart) for iOS.
 ## Networking
 #### Network
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking). A delightful iOS and OS X networking framework.
-- [ASIHTTPRequest](https://github.com/pokeb/asi-http-request). Easy to use CFNetwork wrapper for HTTP requests, Objective-C, Mac OS X and iPhone.
 
 #### Downloader
 - [TCBlobDownload](https://github.com/thibaultCha/TCBlobDownload). Competitive big files downloads in Cocoa. Tested with files from approx 150MB to approx 1.2GB, mostly videos.
