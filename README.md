@@ -86,8 +86,7 @@ chart (half pie chart) for iOS.
 ## Networking
 #### Network
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking). A delightful iOS and OS X networking framework.
-- [ASIHTTPRequest](https://github.com/pokeb/asi-http-request). Easy to use CFNetwork wrapper for HTTP requests, Objective-C, Mac OS X and iPhone.
-- [RestKit](https://github.com/RestKit/RestKit). RestKit is a modern Objective-C framework for implementing RESTful web services clients on iOS and Mac OS X. It provides a powerful object mapping engine that seamlessly integrates with Core Data and a simple set of networking primitives for mapping HTTP requests and responses built on top of AFNetworking. 
+
 
 #### Downloader
 - [TCBlobDownload](https://github.com/thibaultCha/TCBlobDownload). Competitive big files downloads in Cocoa. Tested with files from approx 150MB to approx 1.2GB, mostly videos.
