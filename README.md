@@ -11,7 +11,8 @@
 	- [Button](#button)
 	- [Chart](#chart)
 	- [Tabbar](#tabbar)
-	- [Alert](#alert)
+	- [HUD](#hud)
+	- [Font](#font)
 - [Multimedia](#multimedia)
 	- [Audio](#audio)
 	- [Video](#video)
@@ -35,7 +36,6 @@
 
 #### Menu
 - [REMenu](https://github.com/romaonthego/REMenu). Dropdown menu inspired by Vine.
-#### Button
 - [StackMenu](https://github.com/istsest/StackMenu). Stack menu looks like Dock bar in Mac OS X.
 - [AwesomeMenu](https://github.com/levey/AwesomeMenu). AwesomeMenu is a menu with the same look as the story menu of [Path](https://path.com/).
 - [JASidePanels](https://github.com/gotosleep/JASidePanels). Reveal side ViewControllers similar to Facebook/Path's menu.
@@ -50,13 +50,21 @@
 - [HUChart](https://github.com/hugo53/HUChart). A simple (but the first) semi circle 
 chart (half pie chart) for iOS.
 - [JYRadarChart](https://github.com/johnnywjy/JYRadarChart). A library for radar chart.
+- [TEAChart](https://github.com/xhacker/TEAChart). A simple and intuitive iOS chart library, includes Contribution graph (like of github), clock chart, and bar chart.
 
 #### Tabbar
 - [TabBarKit](https://github.com/davidmorford/TabBarKit). A flexible Tab Bar implementation for iPhone and iPad.
 - [AKTabBarController](https://github.com/alikaragoz/AKTabBarController). Adaptative and customizable tab bar for iOS.
 
-#### Alert
+#### HUD
+- [MBProgressHUD](https://github.com/jdg/MBProgressHUD). MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. 
+- [SVProgressHUD](https://github.com/samvermette/SVProgressHUD). A clean and lightweight progress HUD for iOS app. SVProgressHUD is an easy-to-use HUD meant to display the progress of an ongoing task.
+- [MBAlertView](https://github.com/mobitar/MBAlertView). A fast block-based alert and HUD library with a simple API.
 - [SDCAlertView](https://github.com/Scott90/SDCAlertView). SDCAlertView is intended as a pixel-for-pixel UIAlertView.
+
+#### Font
+- [FBDigitalFont](https://github.com/lyokato/FBDigitalFont). This library includes some kind of digital fonts. It is not TTF or OTF , just draw by CoreGraphics. Really awesome!
+- [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome). Font awesome is an iconic font for iOS.
 
 ## Multimedia
 #### Audio
@@ -65,7 +73,8 @@ chart (half pie chart) for iOS.
 
 #### Video
 - [GPUImage](https://github.com/BradLarson/GPUImage). An open source iOS framework for GPU-based image and video processing.
-
+- [LBYouTubeView](https://github.com/larcus94/LBYouTubeView). A MPMoviePlayerViewController subclass that can display YouTube videos.
+- [VideoPlayerKit](https://github.com/blizzard-op/VideoPlayerKit). A full video player, sharing integrated. 
 
 #### Image
 - [GPUImage](https://github.com/BradLarson/GPUImage). An open source iOS framework for GPU-based image and video processing.
@@ -78,6 +87,7 @@ chart (half pie chart) for iOS.
 #### Network
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking). A delightful iOS and OS X networking framework.
 - [ASIHTTPRequest](https://github.com/pokeb/asi-http-request). Easy to use CFNetwork wrapper for HTTP requests, Objective-C, Mac OS X and iPhone.
+- [RestKit](https://github.com/RestKit/RestKit). RestKit is a modern Objective-C framework for implementing RESTful web services clients on iOS and Mac OS X. It provides a powerful object mapping engine that seamlessly integrates with Core Data and a simple set of networking primitives for mapping HTTP requests and responses built on top of AFNetworking. 
 
 #### Downloader
 - [TCBlobDownload](https://github.com/thibaultCha/TCBlobDownload). Competitive big files downloads in Cocoa. Tested with files from approx 150MB to approx 1.2GB, mostly videos.
