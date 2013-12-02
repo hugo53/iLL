@@ -120,6 +120,7 @@ chart (half pie chart) for iOS.
 ## Development Tool
 - [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode). Xcode plug-in which helps you write Javadoc style documents easier. Just type /// and write documented comment. Support XCode 4 \& Xcode 5.
 - [UALogger](https://github.com/UrbanApps/UALogger). A powerful and flexible logging utility for Mac/iOS apps. Help show log better.
+- [CocoaLumberjack](https://github.com/robbiehanson/CocoaLumberjack) fast & simple logging framework for Objective-C.
 
 ## Completed Product
 - [cheddar-ios](https://github.com/nothingmagical/cheddar-ios). Cheddar for iOS is the universal iPhone and iPad application for Cheddar, a simple \& instant task manager.
