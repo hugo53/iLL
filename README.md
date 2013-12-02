@@ -51,6 +51,7 @@
 chart (half pie chart) for iOS.
 - [JYRadarChart](https://github.com/johnnywjy/JYRadarChart). A library for radar chart.
 - [TEAChart](https://github.com/xhacker/TEAChart). A simple and intuitive iOS chart library, includes Contribution graph (like of github), clock chart, and bar chart.
+- [Core Plot](http://core-plot.googlecode.com/hg/documentation/html/iOS/index.html). Extensive charting, graphing, and plotting. Tightly integrated with Apple technologies like Core Animation, Core Data, and Cocoa Bindings.
 
 #### Tabbar
 - [TabBarKit](https://github.com/davidmorford/TabBarKit). A flexible Tab Bar implementation for iPhone and iPad.
