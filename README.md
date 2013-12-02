@@ -54,7 +54,7 @@
 - [GPUImage](https://github.com/BradLarson/GPUImage). An open source iOS framework for GPU-based image and video processing.
 - [CLImageEditor ](https://github.com/yackle/CLImageEditor). A code for using some image processing tasks for Image, such as crop, rotate, adjustment, Tone Curve, ...
 - [iCarousel](https://github.com/nicklockwood/iCarousel). A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS. 
--[SDWebImage](https://github.com/rs/SDWebImage). Asynchronous image downloader with cache support with an UIImageView category.
+- [SDWebImage](https://github.com/rs/SDWebImage). Asynchronous image downloader with cache support with an UIImageView category.
 
 
 ## Networking
@@ -64,11 +64,14 @@
 
 #### Downloader
 - [TCBlobDownload](https://github.com/thibaultCha/TCBlobDownload). Competitive big files downloads in Cocoa. Tested with files from approx 150MB to approx 1.2GB, mostly videos.
--[SDWebImage](https://github.com/rs/SDWebImage). Asynchronous image downloader with cache support with an UIImageView category.
+- [SDWebImage](https://github.com/rs/SDWebImage). Asynchronous image downloader with cache support with an UIImageView category.
 
 
 ## Cache Technique
 - [FastImageCache](https://github.com/hugo53/FastImageCache). iOS library for quickly displaying images while scrolling.
+- [SDURLCache](https://github.com/rs/SDURLCache). URLCache subclass with on-disk cache support on iPhone/iPad.
+- [TMCache](https://github.com/tumblr/TMCache). Fast parallel object cache for iOS and OS X. TMCache is a key/value store designed for persisting temporary objects that are expensive to reproduce, such as downloaded data or the results of slow processing.
+
 
 ## Social Sharing
 - [ShareKit](https://github.com/ideashower/ShareKit). Drop in sharing features for all iPhone and iPad apps. Support Facebook, Twitter, Delicious, Email, Google Reader,Instapaper, Pinboard, Read It Later, Tumblr. 
@@ -78,6 +81,7 @@
 - [PDFKitten](https://github.com/KurtCode/PDFKitten). A framework for extracting data from PDFs in iOS. Support search, highlight PDF.
 - [Viewer](https://github.com/vfr/Viewer). PDF Viewer Library for iOS.
 - [Reader](https://github.com/vfr/Reader). PDF Reader Core for iOS. 
+- [FastPdfKit](https://github.com/mobfarm/FastPdfKit). A Static Library to be embedded on iOS applications to display pdf documents. It's a powerful framework for showing PDF, but it's just a framework, not open all source.
 
 ## Development Tool
 - [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode). Xcode plug-in which helps you write Javadoc style documents easier. Just type /// and write documented comment. Support XCode 4 \& Xcode 5.
