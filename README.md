@@ -72,6 +72,7 @@ chart (half pie chart) for iOS.
 #### Audio
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine). Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to. 
 - [SoundManager](https://github.com/nicklockwood/SoundManager). Simple sound and music player class for playing audio on Mac and iPhone.
+- [AudioStreamer](https://github.com/mattgallagher/AudioStreamer). A streaming audio player class  for Mac OS X and iPhone.
 
 #### Video
 - [GPUImage](https://github.com/BradLarson/GPUImage). An open source iOS framework for GPU-based image and video processing.
@@ -104,7 +105,7 @@ chart (half pie chart) for iOS.
 
 ## Database
 - [fmdb](https://github.com/ccgus/fmdb). A Cocoa / Objective-C wrapper around SQLite.
-- [MagicalRecord](https://github.com/magicalpanda/MagicalRecord). MagicalRecord makes setting up and using Core Data fast and easy!
+- [MagicalRecord](https://github.com/magicalpanda/MagicalRecord). MagicalRecord makes setting up and using Core Data fast and easy.
 
 ## Social Sharing
 - [ShareKit](https://github.com/ideashower/ShareKit). Drop in sharing features for all iPhone and iPad apps. Support Facebook, Twitter, Delicious, Email, Google Reader,Instapaper, Pinboard, Read It Later, Tumblr. 
