@@ -40,6 +40,7 @@
 - [AwesomeMenu](https://github.com/levey/AwesomeMenu). AwesomeMenu is a menu with the same look as the story menu of [Path](https://path.com/).
 - [JASidePanels](https://github.com/gotosleep/JASidePanels). Reveal side ViewControllers similar to Facebook/Path's menu.
 - [RESideMenu](https://github.com/romaonthego/RESideMenu). iOS 7 style side menu with parallax effect.
+- [ViewDeck](https://github.com/Inferis/ViewDeck). An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.
 
 #### Button
 
@@ -88,6 +89,7 @@ chart (half pie chart) for iOS.
 #### Network
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking). A delightful iOS and OS X networking framework.
 - [RestKit](https://github.com/RestKit/RestKit). RestKit is a modern Objective-C framework for implementing RESTful web services clients on iOS and Mac OS X. It provides a powerful object mapping engine that seamlessly integrates with Core Data and a simple set of networking primitives for mapping HTTP requests and responses built on top of AFNetworking.
+- [SocketRocket](https://github.com/square/SocketRocket). A conforming Objective-C WebSocket client library.
 
 #### Downloader
 - [TCBlobDownload](https://github.com/thibaultCha/TCBlobDownload). Competitive big files downloads in Cocoa. Tested with files from approx 150MB to approx 1.2GB, mostly videos.
@@ -102,6 +104,7 @@ chart (half pie chart) for iOS.
 
 ## Database
 - [fmdb](https://github.com/ccgus/fmdb). A Cocoa / Objective-C wrapper around SQLite.
+- [MagicalRecord](https://github.com/magicalpanda/MagicalRecord). MagicalRecord makes setting up and using Core Data fast and easy!
 
 ## Social Sharing
 - [ShareKit](https://github.com/ideashower/ShareKit). Drop in sharing features for all iPhone and iPad apps. Support Facebook, Twitter, Delicious, Email, Google Reader,Instapaper, Pinboard, Read It Later, Tumblr. 
