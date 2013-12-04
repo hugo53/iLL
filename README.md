@@ -139,3 +139,7 @@ chart (half pie chart) for iOS.
 []()
 -->
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hugo53/ill/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
