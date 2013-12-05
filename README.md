@@ -26,6 +26,9 @@
 - [PDF](#pdf)
 - [Drawing](#drawing)
 - [Development Tool](#development-tool)
+	- [Xcode Plugin](#xcode-plugin)
+	- [Logging](#logging)
+	- [Deployment Tool](#deployment-tool)
 - [Completed Product](#completed-product)
 
 > All libraries are ordered randomly.
@@ -123,9 +126,15 @@ chart (half pie chart) for iOS.
 - [Brushes](https://github.com/sprang/Brushes). Painting app for the iPhone and iPad.
 
 ## Development Tool
+#### Xcode Plugin
 - [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode). Xcode plug-in which helps you write Javadoc style documents easier. Just type /// and write documented comment. Support XCode 4 \& Xcode 5.
+- [XAlign](https://github.com/qfish/XAlign). An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns. Support Xcode 5. 
+
+#### Logging
 - [UALogger](https://github.com/UrbanApps/UALogger). A powerful and flexible logging utility for Mac/iOS apps. Help show log better.
 - [CocoaLumberjack](https://github.com/robbiehanson/CocoaLumberjack) fast & simple logging framework for Objective-C.
+
+#### Deployment Tool
 - [CocoaPods](https://github.com/cocoapods/cocoapods) CocoaPods manages dependencies for your Xcode project.
 
 ## Completed Product
