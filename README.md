@@ -141,7 +141,9 @@ chart (half pie chart) for iOS.
 - [cheddar-ios](https://github.com/nothingmagical/cheddar-ios). Cheddar for iOS is the universal iPhone and iPad application for Cheddar, a simple \& instant task manager.
 - [Inkpad](https://github.com/sprang/Inkpad). Vector illustration app for the iPad. It supports paths, compound paths, text, images, groups, masks, gradient fills, and an unlimited number of layers.
 - [Brushes](https://github.com/sprang/Brushes). Painting app for the iPhone and iPad.
-
+- [iReddit](https://github.com/reddit/iReddit). The iReddit iPhone app for reddit addicts.
+- [News/YC](https://github.com/bennyguitar/News-YC---iPhone). The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
+- [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS). Hacker News client for iPad and iPhone.
 
 
 <!---
