@@ -13,6 +13,7 @@
 	- [Tabbar](#tabbar)
 	- [HUD](#hud)
 	- [Font](#font)
+	- [Animation](#animation)
 - [Multimedia](#multimedia)
 	- [Audio](#audio)
 	- [Video](#video)
@@ -70,6 +71,9 @@ chart (half pie chart) for iOS.
 #### Font
 - [FBDigitalFont](https://github.com/lyokato/FBDigitalFont). This library includes some kind of digital fonts. It is not TTF or OTF , just draw by CoreGraphics. Really awesome!
 - [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome). Font awesome is an iconic font for iOS.
+
+#### Animation
+- [MPFoldTransition](https://github.com/mpospese/MPFoldTransition). Easily add custom folding and page-flipping transitions to UIViews and UIViewControllers, including flip page, fold page.
 
 ## Multimedia
 #### Audio
