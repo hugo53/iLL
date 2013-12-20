@@ -143,7 +143,8 @@ chart (half pie chart) for iOS.
 ## Development Tool
 #### Xcode Plugin
 - [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode). Xcode plug-in which helps you write Javadoc style documents easier. Just type /// and write documented comment. Support XCode 4 \& Xcode 5.
-- [XAlign](https://github.com/qfish/XAlign). An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns. Support Xcode 5. 
+- [XAlign](https://github.com/qfish/XAlign). An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns. Support Xcode 5.
+- [XToDo](https://github.com/trawor/XToDo). Xcode plugin to collect and list the TODO, FIXME,???,!!!!.
 
 #### Logging
 - [UALogger](https://github.com/UrbanApps/UALogger). A powerful and flexible logging utility for Mac/iOS apps. Help show log better.
