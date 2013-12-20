@@ -48,6 +48,7 @@
 - [JASidePanels](https://github.com/gotosleep/JASidePanels). Reveal side ViewControllers similar to Facebook/Path's menu.
 - [RESideMenu](https://github.com/romaonthego/RESideMenu). iOS 7 style side menu with parallax effect.
 - [ViewDeck](https://github.com/Inferis/ViewDeck). An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.
+- [TumblrMenu](https://github.com/cyndibaby905/TumblrMenu). Tumblr iOS app like menu view completely created using core animation.
 
 #### Button
 
@@ -98,7 +99,9 @@ chart (half pie chart) for iOS.
 ##### Image Viewer
 - [iCarousel](https://github.com/nicklockwood/iCarousel). A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS. 
 - [MHFacebookImageViewer](https://github.com/michaelhenry/MHFacebookImageViewer). Image Viewer likes Photo Viewer of  Facebook.
-- [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages). Image Viewer (at top of page) likes Foursquare. 
+- [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages). Image Viewer (at top of page) likes Foursquare.
+- [SSUIViewMiniMe](https://github.com/sSegev/SSUIViewMiniMe). SSUIViewMiniMe takes your UIView and creates a small version of it with an indicator of your location on the original UIView.
+- [YSViewer](https://github.com/yashigani/YSViewer). Image Viewer like Tweetbot 3.
 
 ##### Others 
 - [SDWebImage](https://github.com/rs/SDWebImage). Asynchronous image downloader with cache support with an UIImageView category.
