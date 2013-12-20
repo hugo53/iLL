@@ -18,6 +18,9 @@
 	- [Audio](#audio)
 	- [Video](#video)
 	- [Image](#image)
+		- [Image Processing](#image-processing)
+		- [Image Viewer](#image-viewer)
+		- [Others](#others)
 - [Networking](#networking)
 	- [Network](#network)
 	- [Downloader](#downloader)
@@ -87,9 +90,16 @@ chart (half pie chart) for iOS.
 - [VideoPlayerKit](https://github.com/blizzard-op/VideoPlayerKit). A full video player, sharing integrated. 
 
 #### Image
+##### Image Processing
 - [GPUImage](https://github.com/BradLarson/GPUImage). An open source iOS framework for GPU-based image and video processing.
 - [CLImageEditor ](https://github.com/yackle/CLImageEditor). A code for using some image processing tasks for Image, such as crop, rotate, adjustment, Tone Curve, ...
+
+##### Image Viewer
 - [iCarousel](https://github.com/nicklockwood/iCarousel). A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS. 
+- [MHFacebookImageViewer](https://github.com/michaelhenry/MHFacebookImageViewer). Image Viewer likes Photo Viewer of  Facebook.
+- [ETFoursquareImages](https://github.com/EugeneTrapeznikov/ETFoursquareImages). Image Viewer (at top of page) likes Foursquare. 
+
+##### Others 
 - [SDWebImage](https://github.com/rs/SDWebImage). Asynchronous image downloader with cache support with an UIImageView category.
 
 
