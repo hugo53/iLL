@@ -93,6 +93,7 @@ chart (half pie chart) for iOS.
 ##### Image Processing
 - [GPUImage](https://github.com/BradLarson/GPUImage). An open source iOS framework for GPU-based image and video processing.
 - [CLImageEditor ](https://github.com/yackle/CLImageEditor). A code for using some image processing tasks for Image, such as crop, rotate, adjustment, Tone Curve, ...
+- [TDImageColors](https://github.com/timominous/TDImageColors). iOS Library used to detect a number of most used colors in a UIImage.
 
 ##### Image Viewer
 - [iCarousel](https://github.com/nicklockwood/iCarousel). A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS. 
