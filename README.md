@@ -163,7 +163,7 @@ chart (half pie chart) for iOS.
 - [iReddit](https://github.com/reddit/iReddit). The iReddit iPhone app for reddit addicts.
 - [News/YC](https://github.com/bennyguitar/News-YC---iPhone). The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
 - [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS). Hacker News client for iPad and iPhone.
-
+- [Mobile-Canberra](https://github.com/actgov/Mobile-Canberra). A powerful platform for showing points of interest and services on a map for both Android and iOS.
 
 <!---
 []()
