@@ -166,6 +166,7 @@ chart (half pie chart) for iOS.
 - [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS). Hacker News client for iPad and iPhone.
 - [Mobile-Canberra](https://github.com/actgov/Mobile-Canberra). A powerful platform for showing points of interest and services on a map for both Android and iOS.
 - [Doppio](https://github.com/chroman/Doppio). An open source iOS app to find the nearest Starbucks store using NSURLSession, AFNetworking 2.0, Mantle and Starbucks private API. The app demonstrates how to use MapKit, Core Location, AFNetworking 2.0 and Mantle frameworks.
+
 <!---
 []()
 -->
