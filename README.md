@@ -90,7 +90,7 @@ chart (half pie chart) for iOS.
 - [LBYouTubeView](https://github.com/larcus94/LBYouTubeView). A MPMoviePlayerViewController subclass that can display YouTube videos.
 - [VideoPlayerKit](https://github.com/blizzard-op/VideoPlayerKit). A full video player, sharing integrated. 
 - [MusicPlayerViewController](https://github.com/BeamApp/MusicPlayerViewController). An iPhone view controller to visualize and control music playback.
-- 
+
 #### Image
 ##### Image Processing
 - [GPUImage](https://github.com/BradLarson/GPUImage). An open source iOS framework for GPU-based image and video processing.
