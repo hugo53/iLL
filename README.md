@@ -167,7 +167,12 @@ chart (half pie chart) for iOS.
 - [Hacker-News-for-iOS](https://github.com/mmackh/Hacker-News-for-iOS). Hacker News client for iPad and iPhone.
 - [Mobile-Canberra](https://github.com/actgov/Mobile-Canberra). A powerful platform for showing points of interest and services on a map for both Android and iOS.
 - [Doppio](https://github.com/chroman/Doppio). An open source iOS app to find the nearest Starbucks store using NSURLSession, AFNetworking 2.0, Mantle and Starbucks private API. The app demonstrates how to use MapKit, Core Location, AFNetworking 2.0 and Mantle frameworks.
-- [TaskPaper](https://github.com/jessegrosjean/NOTTaskPaperForIOS). Source code of [TaskPaper](https://itunes.apple.com/en/app/taskpaper-simple-to-do-lists/id354540092?mt=8) - a to-do list application. It has approximate 500 reviews in iTunes store but the source code still goes public. 
+- [TaskPaper](https://github.com/jessegrosjean/NOTTaskPaperForIOS). Source code of [TaskPaper](https://itunes.apple.com/en/app/taskpaper-simple-to-do-lists/id354540092?mt=8) - a to-do list application. It has approximate 500 reviews in iTunes store but the source code still goes public.
+
+#### News/Magazine App
+- [Libreliodev](https://github.com/libreliodev/iOS). Magazine and multimedia publishing app on iOS 
+http://www.librelio.com. Libreliodev provides framework to make wonderful iOS, Android, Windows Phone magazine app, support both HTML and PDF content.
+- [Puzha](https://github.com/stheakanath/Puzha-RSS-Feeder). iPhone app for Puzha.com, Malayalam magazine to aggregate all RSS data.
 
 
 <!---
