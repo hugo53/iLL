@@ -84,6 +84,7 @@ chart (half pie chart) for iOS.
 - [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine). Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to. 
 - [SoundManager](https://github.com/nicklockwood/SoundManager). Simple sound and music player class for playing audio on Mac and iPhone.
 - [AudioStreamer](https://github.com/mattgallagher/AudioStreamer). A streaming audio player class  for Mac OS X and iPhone.
+- [SNRMusicKit](https://github.com/indragiek/SNRMusicKit). All-in-one framework for browsing and playing music from various sources on iOS and OS X.
 
 #### Video
 - [GPUImage](https://github.com/BradLarson/GPUImage). An open source iOS framework for GPU-based image and video processing.
