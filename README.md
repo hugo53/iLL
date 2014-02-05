@@ -14,6 +14,7 @@
 	- [HUD](#hud)
 	- [Font](#font)
 	- [Animation](#animation)
+	- [Minor View](#minor-view)
 - [Multimedia](#multimedia)
 	- [Audio](#audio)
 	- [Video](#video)
@@ -78,6 +79,10 @@ chart (half pie chart) for iOS.
 
 #### Animation
 - [MPFoldTransition](https://github.com/mpospese/MPFoldTransition). Easily add custom folding and page-flipping transitions to UIViews and UIViewControllers, including flip page, fold page.
+
+#### Minor View
+- [EAIntroView](https://github.com/ealeksandrov/EAIntroView). Highly customizable drop-in solution for introduction views.
+- [ICETutorial](https://github.com/icepat/ICETutorial). A nice tutorial like the one introduced in the Path 3.X App.
 
 ## Multimedia
 #### Audio
