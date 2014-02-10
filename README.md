@@ -50,6 +50,7 @@
 - [RESideMenu](https://github.com/romaonthego/RESideMenu). iOS 7 style side menu with parallax effect.
 - [ViewDeck](https://github.com/Inferis/ViewDeck). An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.
 - [TumblrMenu](https://github.com/cyndibaby905/TumblrMenu). Tumblr iOS app like menu view completely created using core animation.
+- [GHContextMenu](https://github.com/GnosisHub/GHContextMenu). Pinterest like context menu control for iOS. It also likes gestures in [Prismatic](https://itunes.apple.com/vn/app/prismatic-always-interesting/id551206444?mt=8).
 
 #### Button
 
