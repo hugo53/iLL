@@ -14,7 +14,9 @@
 	- [HUD](#hud)
 	- [Font](#font)
 	- [Animation](#animation)
+	- [Breadcrumbs](#breadcrumbs)
 	- [Minor View](#minor-view)
+	
 - [Multimedia](#multimedia)
 	- [Audio](#audio)
 	- [Video](#video)
@@ -80,6 +82,9 @@ chart (half pie chart) for iOS.
 
 #### Animation
 - [MPFoldTransition](https://github.com/mpospese/MPFoldTransition). Easily add custom folding and page-flipping transitions to UIViews and UIViewControllers, including flip page, fold page.
+
+#### Breadcrumbs
+- [RMStepsController](https://github.com/CooperRS/RMStepsController). This is an iOS control for guiding users through a process step-by-step. Take a look at [here](http://cooperrs.github.io/RMStepsController/Images/Screen3-animated.gif).
 
 #### Minor View
 - [EAIntroView](https://github.com/ealeksandrov/EAIntroView). Highly customizable drop-in solution for introduction views.
