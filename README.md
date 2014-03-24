@@ -94,6 +94,9 @@ chart (half pie chart) for iOS.
 
 > We can use UIPageViewController for this purpose (horizontal scrolling), but there is a bug on iOS 6 through iOS 7 if we use option UIPageViewControllerTransitionStyleScroll. See [this video](http://www.apeth.com/PageViewControllerBug.mov) for more details.
 
+##### Vertical Scroll View (top-bottom scroll)
+- [SoloComponents-iOS](https://github.com/andreyvit/SoloComponents-iOS/tree/master/ATPagingView). UIView-based scrolling vertically.
+
 #### Minor View
 - [EAIntroView](https://github.com/ealeksandrov/EAIntroView). Highly customizable drop-in solution for introduction views.
 - [ICETutorial](https://github.com/icepat/ICETutorial). A nice tutorial like the one introduced in the Path 3.X App.
