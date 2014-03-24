@@ -15,6 +15,7 @@
 	- [Font](#font)
 	- [Animation](#animation)
 	- [Breadcrumbs](#breadcrumbs)
+	- [Scroll View](#scroll-view)
 	- [Minor View](#minor-view)
 	
 - [Multimedia](#multimedia)
@@ -85,6 +86,13 @@ chart (half pie chart) for iOS.
 
 #### Breadcrumbs
 - [RMStepsController](https://github.com/CooperRS/RMStepsController). This is an iOS control for guiding users through a process step-by-step. Take a look at [here](http://cooperrs.github.io/RMStepsController/Images/Screen3-animated.gif).
+
+#### Scroll View
+##### Horizontal Scroll View (left-right scroll)
+- [SwipeView](https://github.com/nicklockwood/SwipeView). SwipeView is a class designed to simplify the implementation of horizontal, paged scrolling views on iOS. It is based on a UIScrollView, but adds convenient functionality such as a UITableView-style dataSource/delegate interface for loading views dynamically, and efficient view loading, unloading and recycling. 
+- [MNPageViewController](https://github.com/min/MNPageViewController). Simple scrolling page view container for UIViewControllers modelled after UIPageViewController.
+
+> We can use UIPageViewController for this purpose (horizontal scrolling), but there is a bug on iOS 6 through iOS 7 if we use option UIPageViewControllerTransitionStyleScroll. See [this video](http://www.apeth.com/PageViewControllerBug.mov) for more details.
 
 #### Minor View
 - [EAIntroView](https://github.com/ealeksandrov/EAIntroView). Highly customizable drop-in solution for introduction views.
