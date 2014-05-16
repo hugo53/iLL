@@ -14,10 +14,13 @@
 	- [HUD](#hud)
 	- [Font](#font)
 	- [Animation](#animation)
+		- [Text animation](#text-animation)
 	- [Breadcrumbs](#breadcrumbs)
 	- [Scroll View](#scroll-view)
 	- [Minor View](#minor-view)
-	
+
+- [Transition Animation](#transition-animation)
+
 - [Multimedia](#multimedia)
 	- [Audio](#audio)
 	- [Video](#video)
@@ -83,6 +86,12 @@ chart (half pie chart) for iOS.
 
 #### Animation
 - [MPFoldTransition](https://github.com/mpospese/MPFoldTransition). Easily add custom folding and page-flipping transitions to UIViews and UIViewControllers, including flip page, fold page.
+- [POP-MCAnimate](https://github.com/matthewcheok/POP-MCAnimate). Concise syntax for the Pop animation framework.
+
+##### Text animation
+- [RQShineLabel](https://github.com/zipme/RQShineLabel). Secret app like text animation.
+- [Shimmer](https://github.com/facebook/Shimmer). An easy way to add a simple shimmering effect to any view in an iOS app, which is particularly useful as an unobtrusive loading indicator.
+
 
 #### Breadcrumbs
 - [RMStepsController](https://github.com/CooperRS/RMStepsController). This is an iOS control for guiding users through a process step-by-step. Take a look at [here](http://cooperrs.github.io/RMStepsController/Images/Screen3-animated.gif).
@@ -100,6 +109,11 @@ chart (half pie chart) for iOS.
 #### Minor View
 - [EAIntroView](https://github.com/ealeksandrov/EAIntroView). Highly customizable drop-in solution for introduction views.
 - [ICETutorial](https://github.com/icepat/ICETutorial). A nice tutorial like the one introduced in the Path 3.X App.
+
+
+##[Transition Animation]
+- [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition). Custom transition between viewcontrollers holding tableviews like a wave.
+
 
 ## Multimedia
 #### Audio
