@@ -87,6 +87,7 @@ chart (half pie chart) for iOS.
 #### Animation
 - [MPFoldTransition](https://github.com/mpospese/MPFoldTransition). Easily add custom folding and page-flipping transitions to UIViews and UIViewControllers, including flip page, fold page.
 - [POP-MCAnimate](https://github.com/matthewcheok/POP-MCAnimate). Concise syntax for the Pop animation framework.
+- [PAImageView](https://github.com/abiaad/PAImageView). Rounded async imageview downloader based on AFNetworking 2 and lightly cached.
 
 ##### Text animation
 - [RQShineLabel](https://github.com/zipme/RQShineLabel). Secret app like text animation.
