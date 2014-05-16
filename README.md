@@ -111,7 +111,7 @@ chart (half pie chart) for iOS.
 - [ICETutorial](https://github.com/icepat/ICETutorial). A nice tutorial like the one introduced in the Path 3.X App.
 
 
-##[Transition Animation]
+## Transition Animation
 - [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition). Custom transition between viewcontrollers holding tableviews like a wave.
 
 
