@@ -212,6 +212,7 @@ chart (half pie chart) for iOS.
 http://www.librelio.com. Libreliodev provides framework to make wonderful iOS, Android, Windows Phone magazine app, support both HTML and PDF content.
 - [Puzha](https://github.com/stheakanath/Puzha-RSS-Feeder). iPhone app for Puzha.com, Malayalam magazine to aggregate all RSS data.
 
+> [More than 100 real apps open source here](https://maniacdev.com/2010/06/35-open-source-iphone-app-store-apps-updated-with-10-new-apps).
 
 <!---
 []()
